@@ -5,3 +5,8 @@ def introduction(name)
 end
 
 introduction
+
+name = "Dan"
+language = ""
+
+def introduction(name, language)
