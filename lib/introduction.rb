@@ -4,8 +4,8 @@ end
 
 introduction
 
-def introduction(name="Dan", language="Ember.js")
+def introduction_2(name_2="Dan", language="Ember.js")
   puts "Hi, my name is #{name}, and I am learning to program in #{language}."
 end
 
-introduction
+introduction_2
